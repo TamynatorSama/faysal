@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333642956837",
+    "project_id": "sprint-financials-ltd",
+    "storage_bucket": "sprint-financials-ltd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333642956837:android:6c03377ca7eb7b2a1dffcc",
+        "android_client_info": {
+          "package_name": "com.sprintcoy.myfaysal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333642956837-hsm3u5caqoe0uhnrn9t9bsh8ci85hlj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNTMiGCMfnBQtA2FmHmPKptioD2UqnTUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333642956837-hsm3u5caqoe0uhnrn9t9bsh8ci85hlj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
